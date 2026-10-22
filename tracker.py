@@ -17,6 +17,10 @@ def add_workout():
     if duration <= 0:
         print("Duration must be greater than 0.")
         return
+    data.workout_types.append(workout)
+    data.durations.append(duration)
+
+print("Workout recorded successfully!")
 
 def view_all_workouts():
     if (len.workout_types) == 0:
