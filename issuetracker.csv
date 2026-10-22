@@ -4,6 +4,7 @@ Issue_ID, Task_Description, Assigned_To, Status, Commit_ID
 3, Finalized data.py parallel lists, Hubert, Closed, 02ab67c
 4, Initialized tracker.py as Student C, Hubert, In Progress, 
 5, implement add_workout() function, Mike , In progress,
-6, Finalized tracker.py as Student C, Hubert, Closed, 525e2d3
+6, Finalized tracker.py as Student C, Hubert, Closed, b5b2708
 7, Fixed code merging issues, Hubert, Closed, 525e2d3
+8, Updated Readme.md file, Hubert, Closed, 
 
