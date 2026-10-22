@@ -2,11 +2,8 @@ Issue_ID, Task_Description, Assigned_To, Status, Commit_ID
 1, Initialize repository structure, Hubert, Closed, 7141a74
 2, Initialize data.py parallel lists, Hubert, In Progress, 6e72ec4
 3, Finalized data.py parallel lists, Hubert, Closed, 02ab67c
-<<<<<<< HEAD
 4, Initialized tracker.py as Student C, Hubert, In Progress, 
-5, implement add_workout() function, Mike , In progress
+5, implement add_workout() function, Mike , In progress,
 6, Finalized tracker.py as Student C, Hubert, Closed, 
-=======
-4, Initialized tracker.py as Student C, Hubert, In Progress, a5ca402
-5, Finalized tracker.py as Student C, Hubert, Closed, 0f16a15
->>>>>>> 8cbdbca (issue tracker update)
+7, Fixed code merging issues, Hubert, Closed, 
+
