@@ -13,7 +13,7 @@ if choice == "1":
 elif choice == "2":
     tracker.view_all_workouts()
 elif choice == "3":
-    tracker.view_summary_report()
+    tracker.summary_report()
 elif choice == "4":
     print("Goodbye!")
 else:
