@@ -18,7 +18,7 @@ def add_workout():
         print("Duration must be greater than 0.")
         return
 
-    def view_all_workouts():
+def view_all_workouts():
     if (len.workout_types) == 0:
         print("No workouts found in tracker.")
         return
