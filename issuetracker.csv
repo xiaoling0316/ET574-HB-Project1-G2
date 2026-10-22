@@ -1,3 +1,4 @@
 Issue_ID, Task_Description, Assigned_To, Status, Commit_ID
 1, Initialize repository structure, Hubert, Closed, 7141a74
-2, Initialize data.py parallel lists, Hubert, In Progress
+2, Initialize data.py parallel lists, Hubert, In Progress, 6e72ec4
+3, Finalized data.py parallel lists, Hubert, Closed, 
