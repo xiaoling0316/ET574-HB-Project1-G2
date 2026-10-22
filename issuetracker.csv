@@ -3,3 +3,4 @@ Issue_ID, Task_Description, Assigned_To, Status, Commit_ID
 2, Initialize data.py parallel lists, Hubert, In Progress, 6e72ec4
 3, Finalized data.py parallel lists, Hubert, Closed, 02ab67c
 4, Initialized tracker.py as Student C, Hubert, In Progress, 
+5, implement add_workout() function, Mike , In progress
