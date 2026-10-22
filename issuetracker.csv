@@ -7,4 +7,4 @@ Issue_ID, Task_Description, Assigned_To, Status, Commit_ID
 6, Finalized tracker.py as Student C, Hubert, Closed, b5b2708
 7, Fixed code merging issues, Hubert, Closed, 525e2d3
 8, Updated Readme.md file, Hubert, Closed, 
-
+9, Implemented add_workout() function, Mike, Closed, 9e1f2a1
