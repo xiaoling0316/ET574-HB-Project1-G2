@@ -21,4 +21,12 @@ workout_tracker/
 ├── data.py                  # In-memory storage using parallel lists
 ├── tracker.py               # Functional logic for input, viewing, and summaries
 ├── main.py                  # Main entry point and user menu loop
-└── README.md                # Project documentation and instructions
+└── README.md                # Project documentation and instructions 
+
+## how to Run
+1. Open the project in python or github codespaces.
+2. Run main.py.
+3. select an option from the menu
+
+## Storage 
+workout data is stored in memory and is cleared when the program end.

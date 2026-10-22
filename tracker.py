@@ -8,7 +8,7 @@ def add_workout():
     workout = input("Enter workout type: ").strip()
     if workout == "":
         print("Workout type cannot be empty.")
-        return
+        return 
     duration_text = input("Enter duration (minutes): ")
     if not duration_text.isdigit():
         print("Please enter a valid number for duration.")
@@ -19,7 +19,7 @@ def add_workout():
         return
     data.workout_types.append(workout)
     data.workout_durations.append(duration)
-    
+
     print("Workout recorded successfully!")
 
 def view_all_workouts():
