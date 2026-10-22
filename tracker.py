@@ -23,7 +23,7 @@ def add_workout():
     print("Workout recorded successfully!")
 
 def view_all_workouts():
-    if (len.workout_types) == 0:
+    if len(data.workout_types) == 0:
         print("No workouts found in tracker.")
         return
 

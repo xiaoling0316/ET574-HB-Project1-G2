@@ -10,3 +10,4 @@ Issue_ID, Task_Description, Assigned_To, Status, Commit_ID
 9, Implemented add_workout() function, Mike, Closed, 9e1f2a1
 10,updated Readme.md file, Mike, Closed, 3c4d5e6
 11, implemented main.py menu, Mike, In Progress,
+12, Finalized main.py menu, Mike, Closed, 7f8g9h0
