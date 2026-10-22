@@ -29,7 +29,7 @@ def view_all_workouts():
 
     print("---Workout Tracker---")
 
-    for i in range(len.workout_types):
+    for i in range(len(data.workout_types)):
         print(f"{i+1}. Type: {data.workout_types[i]} | Duration: {data.workout_durations[i]}")
 
     print("---------------------\n")
