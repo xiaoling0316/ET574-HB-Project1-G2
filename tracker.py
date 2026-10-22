@@ -9,14 +9,21 @@ def add_workout():
     if workout == "":
         print("Workout type cannot be empty.")
         return 
+    
+    if workout.isdigit():
+        print("Workout type cannot be a number.")
+        return
+    
     duration_text = input("Enter duration (minutes): ")
     if not duration_text.isdigit():
         print("Please enter a valid number for duration.")
         return
+    
     duration = int(duration_text)
     if duration <= 0:
         print("Duration must be greater than 0.")
         return
+    
     data.workout_types.append(workout)
     data.workout_durations.append(duration)
 
