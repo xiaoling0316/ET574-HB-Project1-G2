@@ -18,7 +18,7 @@ def add_workout():
         print("Duration must be greater than 0.")
         return
     data.workout_types.append(workout)
-    data.durations.append(duration)
+    data.workout_durations.append(duration)
 
 print("Workout recorded successfully!")
 
