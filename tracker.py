@@ -19,8 +19,8 @@ def add_workout():
         return
     data.workout_types.append(workout)
     data.workout_durations.append(duration)
-
-print("Workout recorded successfully!")
+    
+    print("Workout recorded successfully!")
 
 def view_all_workouts():
     if (len.workout_types) == 0:
